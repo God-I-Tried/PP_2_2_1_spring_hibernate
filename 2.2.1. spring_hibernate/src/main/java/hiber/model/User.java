@@ -68,9 +68,6 @@ public class User {
         return car;
     }
 
-//    public void setCar(Car car) {
-//        this.car = car;
-//    }
     public User setCar(Car car) {
         this.car = car;
         return this;
